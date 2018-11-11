@@ -24,3 +24,5 @@ An post in heapanalytics.com discussed the relevance of the dataset in terms of 
 
 
  
+Run the notebook
+-  One of the requirements here is Python, either Python 3.3 or greater or Python 2.7. The general recommendation is that you use the Anaconda distribution to install both Python and the notebook application. 
